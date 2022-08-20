@@ -1,2 +1,7 @@
-console.log("hello world")
+let hello = "goodbye"
 
+console.log(hello)
+
+console.log(hello)
+
+console.log(hello)
